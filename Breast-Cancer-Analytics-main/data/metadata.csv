@@ -1,0 +1,34 @@
+column,description,units,source
+id,Unique identifier; not predictive.,-,Kaggle/UC Irvine
+diagnosis,Malignant (M) or Benign (B) diagnosis label.,-,Kaggle/UC Irvine
+radius_mean,Cell nucleus feature (mean/se/worst); unitless derived metric.,unitless,Kaggle/UC Irvine
+texture_mean,Cell nucleus feature (mean/se/worst); unitless derived metric.,unitless,Kaggle/UC Irvine
+perimeter_mean,Cell nucleus feature (mean/se/worst); unitless derived metric.,unitless,Kaggle/UC Irvine
+area_mean,Cell nucleus feature (mean/se/worst); unitless derived metric.,unitless,Kaggle/UC Irvine
+smoothness_mean,Cell nucleus feature (mean/se/worst); unitless derived metric.,unitless,Kaggle/UC Irvine
+compactness_mean,Cell nucleus feature (mean/se/worst); unitless derived metric.,unitless,Kaggle/UC Irvine
+concavity_mean,Cell nucleus feature (mean/se/worst); unitless derived metric.,unitless,Kaggle/UC Irvine
+concave points_mean,Cell nucleus feature (mean/se/worst); unitless derived metric.,unitless,Kaggle/UC Irvine
+symmetry_mean,Cell nucleus feature (mean/se/worst); unitless derived metric.,unitless,Kaggle/UC Irvine
+fractal_dimension_mean,Cell nucleus feature (mean/se/worst); unitless derived metric.,unitless,Kaggle/UC Irvine
+radius_se,Cell nucleus feature (mean/se/worst); unitless derived metric.,unitless,Kaggle/UC Irvine
+texture_se,Cell nucleus feature (mean/se/worst); unitless derived metric.,unitless,Kaggle/UC Irvine
+perimeter_se,Cell nucleus feature (mean/se/worst); unitless derived metric.,unitless,Kaggle/UC Irvine
+area_se,Cell nucleus feature (mean/se/worst); unitless derived metric.,unitless,Kaggle/UC Irvine
+smoothness_se,Cell nucleus feature (mean/se/worst); unitless derived metric.,unitless,Kaggle/UC Irvine
+compactness_se,Cell nucleus feature (mean/se/worst); unitless derived metric.,unitless,Kaggle/UC Irvine
+concavity_se,Cell nucleus feature (mean/se/worst); unitless derived metric.,unitless,Kaggle/UC Irvine
+concave points_se,Cell nucleus feature (mean/se/worst); unitless derived metric.,unitless,Kaggle/UC Irvine
+symmetry_se,Cell nucleus feature (mean/se/worst); unitless derived metric.,unitless,Kaggle/UC Irvine
+fractal_dimension_se,Cell nucleus feature (mean/se/worst); unitless derived metric.,unitless,Kaggle/UC Irvine
+radius_worst,Cell nucleus feature (mean/se/worst); unitless derived metric.,unitless,Kaggle/UC Irvine
+texture_worst,Cell nucleus feature (mean/se/worst); unitless derived metric.,unitless,Kaggle/UC Irvine
+perimeter_worst,Cell nucleus feature (mean/se/worst); unitless derived metric.,unitless,Kaggle/UC Irvine
+area_worst,Cell nucleus feature (mean/se/worst); unitless derived metric.,unitless,Kaggle/UC Irvine
+smoothness_worst,Cell nucleus feature (mean/se/worst); unitless derived metric.,unitless,Kaggle/UC Irvine
+compactness_worst,Cell nucleus feature (mean/se/worst); unitless derived metric.,unitless,Kaggle/UC Irvine
+concavity_worst,Cell nucleus feature (mean/se/worst); unitless derived metric.,unitless,Kaggle/UC Irvine
+concave points_worst,Cell nucleus feature (mean/se/worst); unitless derived metric.,unitless,Kaggle/UC Irvine
+symmetry_worst,Cell nucleus feature (mean/se/worst); unitless derived metric.,unitless,Kaggle/UC Irvine
+fractal_dimension_worst,Cell nucleus feature (mean/se/worst); unitless derived metric.,unitless,Kaggle/UC Irvine
+Unnamed: 32,Cell nucleus feature (mean/se/worst); unitless derived metric.,unitless,Kaggle/UC Irvine

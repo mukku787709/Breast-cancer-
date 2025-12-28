@@ -1,0 +1,3 @@
+test,statistic,p_value,effect_size,interpretation
+Mann-Whitney U,73400.5,1.8033090105551777e-78,,significant
+Power (approx N per group),4.360982367415436,,2.2302415902137653,approx sample size
